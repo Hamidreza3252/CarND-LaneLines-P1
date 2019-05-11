@@ -48,6 +48,7 @@ HTML("""
 <video width="960" height="540" controls>
   <source src="test_videos_output/solidYellowLeft.mp4">
 </video>
+""")
 
 <img src="test_images_output/solidWhiteCurve-lanes.jpg" alt="Sample-1" style="width:500px;"/>
 <img src="test_images_output/solidYellowCurve2-lanes.jpg" alt="Sample-1" style="width:500px;"/>
