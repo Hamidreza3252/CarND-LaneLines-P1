@@ -42,7 +42,7 @@ When we drive, we use our eyes to decide where to go.  The lines on the road tha
 
 ---
 
-### Sample outputs
+### Sample Videos
 
 <!-- blank line -->
 <figure class="video_container">
@@ -51,6 +51,10 @@ When we drive, we use our eyes to decide where to go.  The lines on the road tha
   </video>
 </figure>
 <!-- blank line -->
+
+---
+
+### Sample Screenshots
 
 <img src="test_images_output/solidWhiteCurve-lanes.jpg" alt="Sample-1" style="width:500px;"/>
 <img src="test_images_output/solidYellowCurve2-lanes.jpg" alt="Sample-1" style="width:500px;"/>
