@@ -1,7 +1,8 @@
-# Finding Lane Lines on the Road
+# Finding Lane Lines on the Road - Revision A
+
+---
 
 ## Overview
----
 
 When we drive, we use our eyes to decide where to go.  The lines on the road that show us where the lanes are act as our constant reference for where to steer the vehicle.  Naturally, one of the first things we would like to do in developing a self-driving car is to automatically detect lane lines using an algorithm.
 
@@ -30,7 +31,7 @@ When we drive, we use our eyes to decide where to go.  The lines on the road tha
 * Identifying the region of interest by applying a mask with a trapezoid shape. The trapezoid shape mimics the perspective intuition of the meeting lanes. 
 * Identifying the most relevant lanes out of all the captured ones using Hough transform thresholds. These thresholds are calibrated after some trial and errors to obtain the best results.
 
-### More technical details and tricks I have used to get better results 
+### More technical details and tricks I have used to improve the results
 
 * in `draw_lines` function: 
   * I define two filtering tolerance variables, `horizontalSlopeTol` and `verticalSlopeTol`, to filter out close-tohorizontal and close-to-vertical lines. This helps remove some noisy lines. 
@@ -40,10 +41,15 @@ When we drive, we use our eyes to decide where to go.  The lines on the road tha
 * I got better results using the color -  original - images instead of using gray ones 
 
 ---
+
 ### Sample outputs
 
----
+HTML("""
+<video width="960" height="540" controls>
+  <source src="test_videos_output/solidYellowLeft.mp4">
+</video>
 
 <img src="test_images_output/solidWhiteCurve-lanes.jpg" alt="Sample-1" style="width:500px;"/>
 <img src="test_images_output/solidYellowCurve2-lanes.jpg" alt="Sample-1" style="width:500px;"/>
 <img src="test_images_output/whiteCarLaneSwitch-lanes.jpg" alt="Sample-1" style="width:500px;"/>
+
