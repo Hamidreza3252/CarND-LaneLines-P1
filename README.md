@@ -44,13 +44,7 @@ When we drive, we use our eyes to decide where to go.  The lines on the road tha
 
 ### Sample Videos
 
-<!-- blank line -->
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="test_images_output/solidWhiteCurve-lanes.jpg">
-    <source src="test_videos_output/solidYellowLeft.mp4" type="video/mp4">
-  </video>
-</figure>
-<!-- blank line -->
+[![](test_images_output/solidWhiteCurve-lanes.jpg)](https://youtu.be/BheJfbQ8Jcw)
 
 ---
 
