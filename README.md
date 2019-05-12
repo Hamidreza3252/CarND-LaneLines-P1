@@ -44,11 +44,15 @@ When we drive, we use our eyes to decide where to go.  The lines on the road tha
 
 ## Sample Videos
 
+### Solid White Right
+
 [![](test_images_output/solidWhiteCurve-lanes.jpg)](https://youtu.be/gVHBN8FTaac "Click to play on YouTube")
 
+### Solid Yellow Left
 
 [![](test_images_output/solidWhiteCurve-lanes.jpg)](https://youtu.be/dJt5A6-rZHE "Click to play on YouTube")
 
+### Curved Lane
 
 [![](test_images_output/solidWhiteCurve-lanes.jpg)](https://youtu.be/BheJfbQ8Jcw "Click to play on YouTube")
 
