@@ -42,15 +42,15 @@ When we drive, we use our eyes to decide where to go.  The lines on the road tha
 
 ---
 
-### Sample Videos
+## Sample Videos
 
-[![](test_images_output/solidWhiteCurve-lanes.jpg)](https://youtu.be/BheJfbQ8Jcw)
+[![](test_images_output/solidWhiteCurve-lanes.jpg)](https://youtu.be/gVHBN8FTaac "Click to play on YouTube")
+
+
+[![](test_images_output/solidWhiteCurve-lanes.jpg)](https://youtu.be/dJt5A6-rZHE "Click to play on YouTube")
+
+
+[![](test_images_output/solidWhiteCurve-lanes.jpg)](https://youtu.be/BheJfbQ8Jcw "Click to play on YouTube")
 
 ---
-
-### Sample Screenshots
-
-<img src="test_images_output/solidWhiteCurve-lanes.jpg" alt="Sample-1" style="width:500px;"/>
-<img src="test_images_output/solidYellowCurve2-lanes.jpg" alt="Sample-1" style="width:500px;"/>
-<img src="test_images_output/whiteCarLaneSwitch-lanes.jpg" alt="Sample-1" style="width:500px;"/>
 
